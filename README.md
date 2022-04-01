@@ -16,7 +16,7 @@ python main5.py
 - Python3
 - Pytorch
 - gym-super-mario-bros
-- 
+
 # Performance
 ![Performance](https://github.com/AntonioAlgaida/MarioDRL/blob/3b29ae845282eb845fd94be23925c5be57957f9c/performance.svg)
 
