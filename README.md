@@ -15,7 +15,9 @@ python main5.py
 # Dependencies
 - Python3
 - Pytorch
+- gym
 - gym-super-mario-bros
+- stable_baselines3
 
 # Performance
 ![Performance](https://github.com/AntonioAlgaida/MarioDRL/blob/3b29ae845282eb845fd94be23925c5be57957f9c/performance.svg)
